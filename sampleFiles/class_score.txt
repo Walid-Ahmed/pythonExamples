@@ -1,0 +1,8 @@
+GWashington 83
+JAdams 86
+Yuval 50
+Tom 90
+Takis 98
+John 81
+Chris 85
+ChrisD 100

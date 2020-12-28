@@ -1,0 +1,5 @@
+GWashington 83 77 54
+JAdams 86 69 90
+Takis 96 92 98
+Chris 95 98 99
+Bob 50 40 30
