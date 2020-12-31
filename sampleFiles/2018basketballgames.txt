@@ -1,0 +1,35 @@
+Tue, Oct 16, 2018,8:00p,Philadelphia 76ers,87,Boston Celtics,105,Box Score,18.624	
+Tue, Oct 16, 2018,10:30p,Oklahoma City Thunder,100,Golden State Warriors,108,Box Score,19.596	
+Wed, Oct 17, 2018,7:00p,Milwaukee Bucks,113,Charlotte Hornets,112,Box Score,17.889	
+Wed, Oct 17, 2018,7:00p,Brooklyn Nets,100,Detroit Pistons,103,Box Score,20.332	
+Wed, Oct 17, 2018,7:00p,Memphis Grizzlies,83,Indiana Pacers,111,Box Score,17.923	
+Wed, Oct 17, 2018,7:00p,Miami Heat,101,Orlando Magic,104,Box Score,19.191	
+Wed, Oct 17, 2018,7:30p,Atlanta Hawks,107,New York Knicks,126,Box Score,18.249	
+Wed, Oct 17, 2018,7:30p,Cleveland Cavaliers,104,Toronto Raptors,116,Box Score,19.915	
+Wed, Oct 17, 2018,8:00p,New Orleans Pelicans,131,Houston Rockets,112,Box Score,18.055	
+Wed, Oct 17, 2018,8:30p,Minnesota Timberwolves,108,San Antonio Spurs,112,Box Score,18.354	
+Wed, Oct 17, 2018,10:00p,Utah Jazz,123,Sacramento Kings,117,Box Score,17.583	
+Wed, Oct 17, 2018,10:30p,Denver Nuggets,107,Los Angeles Clippers,98,Box Score,19.068	
+Wed, Oct 17, 2018,10:30p,Dallas Mavericks,100,Phoenix Suns,121,Box Score,18.055	
+Thu, Oct 18, 2018,8:00p,Chicago Bulls,108,Philadelphia 76ers,127,Box Score,20.302	
+Thu, Oct 18, 2018,8:00p,Miami Heat,113,Washington Wizards,112,Box Score,20.409	
+Thu, Oct 18, 2018,10:30p,Los Angeles Lakers,119,Portland Trail Blazers,128,Box Score,19.996	
+Fri, Oct 19, 2018,7:00p,Charlotte Hornets,120,Orlando Magic,88,Box Score,17.668	
+Fri, Oct 19, 2018,7:30p,New York Knicks,105,Brooklyn Nets,107,Box Score,17.732	
+Fri, Oct 19, 2018,8:00p,Atlanta Hawks,117,Memphis Grizzlies,131,Box Score,17.019	
+Fri, Oct 19, 2018,8:00p,Cleveland Cavaliers,123,Minnesota Timberwolves,131,Box Score,18.978	
+Fri, Oct 19, 2018,8:00p,Sacramento Kings,129,New Orleans Pelicans,149,Box Score,18.337	
+Fri, Oct 19, 2018,8:00p,Boston Celtics,101,Toronto Raptors,113,Box Score,19.800	
+Fri, Oct 19, 2018,8:30p,Indiana Pacers,101,Milwaukee Bucks,118,Box Score,17.341	
+Fri, Oct 19, 2018,10:30p,Oklahoma City Thunder,92,Los Angeles Clippers,108,Box Score,14.816	
+Fri, Oct 19, 2018,10:30p,Golden State Warriors,124,Utah Jazz,123,Box Score,18.306	
+Sat, Oct 20, 2018,7:00p,Brooklyn Nets,112,Indiana Pacers,132,Box Score,17.007	
+Sat, Oct 20, 2018,7:00p,Toronto Raptors,117,Washington Wizards,113,Box Score,16.185	
+Sat, Oct 20, 2018,7:30p,Boston Celtics,103,New York Knicks,101,Box Score,19.427	
+Sat, Oct 20, 2018,7:30p,Orlando Magic,115,Philadelphia 76ers,116,Box Score,20.300	
+Sat, Oct 20, 2018,8:00p,Detroit Pistons,118,Chicago Bulls,116,Box Score,21.289	
+Sat, Oct 20, 2018,8:00p,Charlotte Hornets,113,Miami Heat,112,Box Score,19.600	
+Sat, Oct 20, 2018,8:30p,Minnesota Timberwolves,136,Dallas Mavericks,140,Box Score,20.205	
+Sat, Oct 20, 2018,9:00p,Phoenix Suns,91,Denver Nuggets,119,Box Score,19.592	
+Sat, Oct 20, 2018,10:00p,San Antonio Spurs,108,Portland Trail Blazers,121,Box Score,19.461	
+Sat, Oct 20, 2018,10:30p,Houston Rockets,124,Los Angeles Lakers,115,Box Score,18.997
